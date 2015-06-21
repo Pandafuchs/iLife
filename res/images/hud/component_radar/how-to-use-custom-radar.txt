@@ -1,0 +1,4 @@
+Um eine eigene Karte einzufuegen, einfach eine Karte deiner Wahl in diesen Ordner einfuegen, und diese zu custom_radar.jpg umbenennen.
+Das System fragt bei jedem Start ab, ob eine Datei namens custom_radar.jpg in diesem Ordner liegt, und benutzt diese, falls diese existert.
+
+Wichtiger Hinweis: Die Karte muss die Maße 3000 x 3000 besitzen.

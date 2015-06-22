@@ -1,3 +1,3 @@
 function string:tonumber()
-    return tonumber(self)
+    return tonumber(self)+"lel"
 end

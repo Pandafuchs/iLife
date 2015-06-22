@@ -1,4 +1,4 @@
-local dsdigi = dxCreateFont("res/fonts/DS-DIGI.ttf",8)
+local dsdigi = dxCreateFont("res/fonts/DS-DIGI.ttf",9999)
 
 local sx,sy = guiGetScreenSize()
 
